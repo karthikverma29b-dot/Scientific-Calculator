@@ -13,7 +13,7 @@ Python 🐍
 Streamlit (for UI, if used)
 
 📂 Project Structure
-scientific-calculator/
+scientific calculator/
 │── app.py
 │── README.md
 
