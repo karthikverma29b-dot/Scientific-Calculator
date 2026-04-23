@@ -14,7 +14,7 @@ Streamlit (for UI, if used)
 
 📂 Project Structure
 scientific-calculator/
-│── scientific calculator.py
+│── app.py
 │── README.md
 
 🎯 Future Improvements
