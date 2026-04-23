@@ -24,6 +24,7 @@ Better UI/UX design
 Mobile responsiveness
 
 👨‍💻 Author
+
 Karthik Verma
 
 ⭐ Show Your Support
